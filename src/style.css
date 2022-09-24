@@ -167,6 +167,8 @@ main {
 .bg-grayblue-600 { background-color: var(--clr-grayblue-600); }
 .bg-grayblue-800 { background-color: var(--clr-grayblue-800); }
 
+.bg-neutral-100 { background-color: var(--clr-neutral-100); }
+
 
 /* Typography */
 .fc-neutral-100 { color: var(--clr-neutral-100); }
